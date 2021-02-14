@@ -57,7 +57,7 @@ To get this project set up on your local machine, follow these simple steps:
 
 👤 **Delice Lydia**
   - GitHub: [@githubhandle](https://github.com/DeliceLydia)
-  - Twitter: [@twitterhandle](https://twitter.com/lameck721)
+  - Twitter: [@twitterhandle](https://twitter.com/IngabireLydia)
   - LinkedIn: [LinkedIn](https://twitter.com/IngabireLydia3)
 
 
